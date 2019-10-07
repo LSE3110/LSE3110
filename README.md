@@ -1,2 +1,2 @@
-# LSE3110
+# LSE3110.github.io
 Personal Page
